@@ -1,0 +1,14 @@
+# Firebase & Google Services sensitive files
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase_options.dart
+
+# Environment & Secret configuration files
+*.env
+.env*
+key.properties
+local.properties
+*.keystore
+*.jks
+*.p12
+*.pem
